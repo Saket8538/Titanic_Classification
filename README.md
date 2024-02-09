@@ -3,7 +3,7 @@
 Bharat-Intern-Task-2-Titanic-Classiffication
 Task 2:Titanic Classification
 
-Titanic Survival Prediction | Titanic Classification:
+ Titanic Classification:
 
 A prediction of a passenger's survival in the Titanic based on various features such as age, gender, class, and more.
 
